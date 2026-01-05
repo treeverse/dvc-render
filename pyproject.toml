@@ -45,7 +45,7 @@ docs = [
 ]
 tests = [
   "dvc-render[table,markdown]",
-  "pytest>=7,<9",
+  "pytest>=7,<10",
   "pytest-cov>=4.1.0",
   "pytest-sugar",
   "pytest-mock"
